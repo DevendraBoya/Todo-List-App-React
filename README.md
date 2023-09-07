@@ -1,6 +1,6 @@
 ### Application View
 
-https://github.com/DevendraBoya/Todo-List-App-React/assets/16133919/f1a8b80b-67eb-4229-9d94-9cdbcf1ace3f
+![ezgif com-video-to-gif](https://github.com/DevendraBoya/Todo-List-App-React/assets/16133919/9e35292a-1e35-400d-8107-1db4f464e8e6)
 
 # Getting Started with Create React App
 
