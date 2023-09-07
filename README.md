@@ -1,3 +1,7 @@
+### Application View
+
+https://github.com/DevendraBoya/Todo-List-App-React/assets/16133919/f1a8b80b-67eb-4229-9d94-9cdbcf1ace3f
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
